@@ -7,5 +7,108 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "cocheras": [
+    {
+      "id": 1,
+      "nombre": "Cochera 1",
+      "asignada": true
+    },
+    {
+      "id": 2,
+      "nombre": "Cochera 2",
+      "asignada": true
+    },
+    {
+      "id": 3,
+      "nombre": "Cochera 3",
+      "asignada": true
+    },
+    {
+      "id": 4,
+      "nombre": "cochera 4",
+      "asignada": true
+    },
+    {
+      "id": 5,
+      "nombre": "Cochera 5",
+      "asignada": true
+    },
+    {
+      "id": 6,
+      "nombre": "cochera 6",
+      "asignada": true
+    },
+    {
+      "id": 7,
+      "nombre": "Cochera 7",
+      "asignada": true
+    },
+    {
+      "id": 8,
+      "nombre": "Cochera 8",
+      "asignada": true
+    },
+    {
+      "id": 9,
+      "nombre": "Cochera 9",
+      "asignada": true
+    },
+    {
+      "id": 10,
+      "nombre": "Cochera 10",
+      "asignada": true
+    },
+    {
+      "id": 11,
+      "nombre": "cochera 11",
+      "asignada": true
+    },
+    {
+      "id": 12,
+      "nombre": "Cochera 12",
+      "asignada": true
+    },
+    {
+      "id": 13,
+      "nombre": "Cochera 13",
+      "asignada": true
+    },
+    {
+      "id": 14,
+      "nombre": "Cochera 14",
+      "asignada": false
+    },
+    {
+      "id": 15,
+      "nombre": "Cochera 15",
+      "asignada": false
+    },
+    {
+      "id": 16,
+      "nombre": "Cochera 16",
+      "asignada": false
+    },
+    {
+      "id": 17,
+      "nombre": "Cochera 17",
+      "asignada": false
+    },
+    {
+      "id": 18,
+      "nombre": "Cochera 18",
+      "asignada": false
+    },
+    {
+      "id": 19,
+      "nombre": "Cochera 19",
+      "asignada": false
+    },
+    {
+      "id": 20,
+      "nombre": "Cochera 20",
+      "asignada": false
+    }
+  ]
 }
+
