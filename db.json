@@ -7,5 +7,48 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  {
+  "usuarios": [
+    {
+      "email": "mario@gmail.com",
+      "contrasena": "mario",
+      "nombre": "mario",
+      "telefono": 24234,
+      "cantidadcocheras": 1,
+      "id": 1,
+      "cocherasAsignadas": [
+        2
+      ]
+    },
+    {
+      "email": "jona@gmail.com",
+      "contrasena": "jona",
+      "nombre": "jona",
+      "telefono": 234234,
+      "cantidadcocheras": 6,
+      "id": 2,
+      "cocherasAsignadas": [
+        10,
+        4,
+        6,
+        7,
+        8,
+        3
+      ]
+    },
+    {
+      "email": "matias@gmail.com",
+      "contrasena": "matias",
+      "nombre": "matias",
+      "telefono": 24434234,
+      "cantidadcocheras": 2,
+      "id": 3,
+      "cocherasAsignadas": [
+        12,
+        13
+      ]
+    }
+  ]
+}
 }
