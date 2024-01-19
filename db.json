@@ -11,9 +11,9 @@
   "usuarios": [
     {
       "id": 1,
-      "email": "mario@gmail.com",
-      "contrasena": "mario",
-      "nombre": "mario",
+      "email": "matias@gmail.com",
+      "contrasena": "matias",
+      "nombre": "matias",
       "telefono": 24234,
       "cantidadcocheras": 1,
       "cocherasAsignadas": [
@@ -22,9 +22,9 @@
     },
     {
       "id": 2,
-      "email": "jona@gmail.com",
-      "contrasena": "jona",
-      "nombre": "jona",
+      "email": "mario@gmail.com",
+      "contrasena": "mario",
+      "nombre": "mario",
       "telefono": 234234,
       "cantidadcocheras": 6,
       "cocherasAsignadas": [
