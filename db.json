@@ -10,30 +10,30 @@
   },
   "usuarios": [
     {
-      "id": 3,
+      "id": 2,
       "email": "matias@gmail.com",
       "contrasena": "matiasmatias",
       "nombre": "matias",
       "telefono": 24234,
       "cantidadcocheras": 1,
       "cocherasAsignadas": [
-        2
+        1
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "email": "mario@gmail.com",
       "contrasena": "mariomario",
       "nombre": "mario",
       "telefono": 234234,
       "cantidadcocheras": 6,
       "cocherasAsignadas": [
-        10,
+        2,
+        3,
         4,
+        5,
         6,
-        7,
-        8,
-        3
+        7
       ]
     }
   ],
@@ -76,32 +76,32 @@
     {
       "id": 8,
       "nombre": "Cochera 8",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 9,
       "nombre": "Cochera 9",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 10,
       "nombre": "Cochera 10",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 11,
       "nombre": "cochera 11",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 12,
       "nombre": "Cochera 12",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 13,
       "nombre": "Cochera 13",
-      "asignada": true
+      "asignada": false
     },
     {
       "id": 14,
